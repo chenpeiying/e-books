@@ -1,0 +1,22 @@
+{
+  "name": "e-books",
+  "version": "1.0.0",
+  "description": "制作电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenpeiying/e-books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenpeiying/e-books/issues"
+  },
+  "homepage": "https://github.com/chenpeiying/e-books#readme",
+  "devDependencies":{
+    "gitbook-cli":"^2.3.2"
+  }
+}
